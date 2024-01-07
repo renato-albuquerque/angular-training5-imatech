@@ -1,0 +1,10 @@
+1ª CRIAR COMPONENTE DE ALUNO
+ng g c componentes/aluno
+
+2ª CRIAR SERVIÇO DE ALUNO
+ng g s servicos/aluno
+
+3ª EXECUTAR PROJETO
+ng s
+ng serve
+ 
